@@ -1,16 +1,13 @@
-## Hi there 👋
+## 💫 Привет! Меня зовут Александра и я начинающий тестировщик
+Обо мне: 
+- Начала вливаться в тестирование через бесплатный курс [Artsiom Rusau](https://stepik.org/course/171826/info)
+- Закрепила полученные знания на курсе Яндекс Практикума «Инженер по тестированию»
+- Отработала практические навыки в [дипломном проекте](https://docs.google.com/spreadsheets/d/1xGA06d4nttnnlTY-trDfNZ_h3LvLvcuN8MaNEHicxrU/edit?usp=sharing) 
+- Закрепляю полученные знания, проводя регрессионное тестирование в Яндекс Крауде
+- Ищу коллег, которые готовы дать шанс Junior QA-engineer поучаствовать во всех этапах производства продукта
 
-<!--
-**santhippe/santhippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[Telegram](https://t.me/santhippe)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills: 
+SQL / Postman / Charles Proxy / DevTools / PostgreSQL
