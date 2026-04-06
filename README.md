@@ -10,4 +10,4 @@
 [Telegram](https://t.me/santhippe)
 
 ## 💻 Skills: 
-SQL / Postman / Charles Proxy / DevTools / PostgreSQL
+SQL / Postman / Charles Proxy / DevTools / PostgreSQL / Android Studio
