@@ -11,4 +11,4 @@
 [Telegram](https://t.me/santhippe)
 
 ## 💻 Skills: 
-SQL / Postman / Charles Proxy / DevTools / PostgreSQL / Android Studio
+SQL / Postman / Charles Proxy / DevTools / PostgreSQL / Android Studio / Figma / Яндекс Трекер
